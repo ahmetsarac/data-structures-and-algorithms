@@ -16,7 +16,7 @@ We generally use linked lists for implementing lists, queue and stack structures
 We call the first node as **head**, the last node as **tail**. It is not a compulsory thing but is a little terminology and convention.
 
 ## Singly vs Doubly Linked Lists
-Singly linked lists only contains the data and next node's address, however doubly linked lists contains the data, the next node and the previous node's address.a
+Singly linked lists only contains the data and next node's address, however doubly linked lists contains the data, the next node and the previous node's address.
 
 They has pros and cons to each other. 
 

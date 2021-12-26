@@ -26,7 +26,7 @@ Indexable means this :
  |  |  |  |   |   |
  0  1  2  3   4   5
 ```
-`array[0]` refers to 2, `array[1]` refers to 5, `array[5]` refers to 20. I think you got this now. Indexes stars with 0 because it is the start point in the memory
+`array[0]` refers to 2, `array[1]` refers to 5, `array[5]` refers to 20. I think you got this now. Indexes stars with 0 because it is the start point in the memory.
 
 ## Complexities
 

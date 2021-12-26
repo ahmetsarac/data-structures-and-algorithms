@@ -5,7 +5,7 @@ A data structure is a way to organize datas and manage them in easy way by using
 
 ## Why do we need the data structures?
 When we are working with a lot of data we can create data structures to ease our job. We can bundle the relevant datas in the same structure
-and we can manage them easily. Moreover, using data structures makes our codebase cleaner, easy to read and understand.a
+and we can manage them easily. Moreover, using data structures makes our codebase cleaner, easy to read and understand.
 
 ## What is abstract data type?
 Abstract data type(ADT) is an abstraction model for data types. It defines an interface, and behaviours about data structures but not giving a definition about their implementations.
